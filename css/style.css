@@ -32,7 +32,7 @@ input, select { vertical-align:middle; }
 
 
 /* BASE STYLES */
-body, select, input, textarea { color:#4E4F48; }
+body, select, input, textarea { color:green; }
 h1,h2,h3,h4,h5,h6 { font-weight: bold; text-rendering: optimizeLegibility; }
 html { -webkit-font-smoothing: antialiased; }
 
@@ -43,7 +43,7 @@ a:hover, a:active { outline: none; }
 label, input[type=button], input[type=submit], button { cursor: pointer; }
 
 /*  j.mp/webkit-tap-highlight-color */
-a:link { -webkit-tap-highlight-color: #FF5E99; }
+a:link { -webkit-tap-highlight-color: blue; }
 
 /* always force a scrollbar in non-IE */
 html { overflow-y: scroll; }
